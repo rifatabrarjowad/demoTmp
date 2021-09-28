@@ -1,0 +1,15 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-size: 18px;
+    background-color: #111a28;
+    color: white
+}
+
+body {
+    background-color: #111a28 !important;
+}
+
+#nev-icon {
+    width: 75px;
+}
